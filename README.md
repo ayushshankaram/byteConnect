@@ -1,4 +1,4 @@
-# byteConnect (SocialMediaAPP) 
+# byteConnect - Social Media webApp
 
 This social media application is built using the MERN stack (MongoDB, Express.js, React, Node.js). It provides a platform for users to manage accounts, interact with posts, and engage in real-time messaging with other users.
 
